@@ -14,7 +14,7 @@ Dans le fichier excel il y a 3 pages :
  * Le planning est défini en fonction des disponibilités de chacun
  * Une fois par semaine, une séance de replay de match sera faite (sans coach) pour echanger sur nos façons de jouer. Cette séance sera faite en dehors des jours d'entrainement et n'est pas obligatoire.
 
-## Les régles
+## Les règles
 
 ### Les pénalités
 
