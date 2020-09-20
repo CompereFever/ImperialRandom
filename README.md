@@ -1,12 +1,5 @@
 # IMPERIAL RANDOM
 
-## Lien d'echange partagé de l'équipe
-
-Dans le fichier excel il y a 3 pages : 
- * 1er Page : le planning de la semaine mis à jour tout les samedis
- * 2ieme page : Vos disponibilités de la semaine à renseigner avant chaque samedis
- * 3ieme page : Les pénalités.
-
 ## Fonctionnement Général 
  * Rien n'est figés, toutes les régles peuvent être modifier. Pour cela, il suffit de faire la demande de modification, suppression,ajout de régle et qu'elle soit validé à la majorité.
  * Entrainement 3 jours par semaine obligatoire Mercredi / Samedi / Dimanche de 21h - 23h30 
