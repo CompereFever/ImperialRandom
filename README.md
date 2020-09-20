@@ -2,7 +2,6 @@
 
 ## Lien d'echange partagé de l'équipe
 
-[Fichier Excel IMPERIAL RANDOM](https://docs.google.com/spreadsheets/d/1P5QqYYz_NB5jrVSxb9Fgznw-TKkI0W5_wofB171-Hyg/edit?usp=sharing) <br>
 Dans le fichier excel il y a 3 pages : 
  * 1er Page : le planning de la semaine mis à jour tout les samedis
  * 2ieme page : Vos disponibilités de la semaine à renseigner avant chaque samedis
@@ -10,7 +9,7 @@ Dans le fichier excel il y a 3 pages :
 
 ## Fonctionnement Général 
  * Rien n'est figés, toutes les régles peuvent être modifier. Pour cela, il suffit de faire la demande de modification, suppression,ajout de régle et qu'elle soit validé à la majorité.
- * Entrainement 3 jours par semaine obligatoire de 21h - 23h30 
+ * Entrainement 3 jours par semaine obligatoire Mercredi / Samedi / Dimanche de 21h - 23h30 
  * Le planning est défini en fonction des disponibilités de chacun
  * Une fois par semaine, une séance de replay de match sera faite (sans coach) pour echanger sur nos façons de jouer. Cette séance sera faite en dehors des jours d'entrainement et n'est pas obligatoire.
 
